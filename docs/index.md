@@ -1,17 +1,3 @@
 # Qed
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+[个人简历](https://github.com/Qedsama/Qedsama.github.io/blob/main/pdf/%E7%AE%80%E5%8E%86-%E6%AD%A6%E6%B0%B8%E7%A5%A5.pdf)
